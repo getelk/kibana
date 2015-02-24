@@ -1,4 +1,4 @@
-FROM alpinelinux/base:latest
+FROM gliderlabs/alpine:latest
 
 ENV KB_PKG_NAME kibana-3.1.2
 
